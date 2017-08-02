@@ -1,0 +1,12 @@
+[[source]]
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+
+[dev-packages]
+pyflakes = "*"
+pytest = "*"
+hypothesis = "*"
+mypy = "*"
+
+[packages]
+bottle = "*"
