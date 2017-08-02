@@ -8,6 +8,7 @@ pytest = "*"
 hypothesis = "*"
 mypy = "*"
 ipython = "*"
+yapf = "*"
 
 [packages]
 bottle = "*"
